@@ -1,0 +1,11 @@
+{
+  "name": "json-server-tutorial",
+  "version": "1",
+  "description": "json-server-tutorial",
+  "scripts": {
+    "json-server": "json-server --watch db.json --port 3000"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
